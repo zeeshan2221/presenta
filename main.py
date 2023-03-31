@@ -13,7 +13,7 @@ def generate_presentation(topic):
 
     # Set up OpenAI API parameters
     model_engine = "text-davinci-002"
-    max_tokens = 1024
+    max_tokens = 1048
     temperature = 0.7
 
     # Generate the presentation content using OpenAI's GPT-3 API
