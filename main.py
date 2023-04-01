@@ -1,6 +1,6 @@
+import requests
 import streamlit as st
 import openai
-import requests
 from io import BytesIO
 from pydub import AudioSegment
 
